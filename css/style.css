@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* cabeçalho inteiro */
+body{
+    font-size: 1rem;
+    background-color:#f5e1ce;
+}
+
+ #area-cabeçalho{
+    padding: 0.3rem;
+    text-align: center;
+    background-color: antiquewhite;
+} 
+
+#bem-vestido{
+    /* position: absolute;
+    width: 221px;
+    height: 32.23px;
+    left: 37px;
+    top: 33.88px; */
+
+    font-family: 'inter';
+    font-style: normal;
+    font-size: 32px;
+}
+
+
+
+ .container{ 
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.area-menu{
+    text-align-last: center;
+    padding-right: 5px;
+    display: inline;
+    font-family: 'inter';
+    font-size: 15px;
+
+    
+} 
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+
+
